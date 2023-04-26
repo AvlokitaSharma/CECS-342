@@ -1,0 +1,5 @@
+mr_barrada saw the balloon on friday.
+ms_gort saw the waterTower on tuesday.
+mr_klatu saw the clothesline on thursday.
+mr_nikto saw the frisbee on wednesday.
+true
